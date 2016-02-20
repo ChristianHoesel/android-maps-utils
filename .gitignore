@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle
 .idea
 *.iml
@@ -9,3 +10,6 @@ library/bin
 library/gen
 project.properties
 .DS_Store
+=======
+_site
+>>>>>>> refs/remotes/googlemaps/gh-pages

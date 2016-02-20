@@ -1,0 +1,5 @@
+name: Google Maps Android API utility library
+highlighter: rouge
+
+baseurl: /android-maps-utils/
+include: ['javadoc']
